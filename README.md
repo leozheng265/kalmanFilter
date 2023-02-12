@@ -7,7 +7,7 @@ The KalmanFilter class implements a standard Kalman filter algorithm to estimate
 
 ## Virtual Environment Set Up
 1. Create a virtual environment:
-    * `python3 -m venv venv`
+    * `python3 -m venv myenv` (replace myenv with name of your virtual environment)
 2. Activate the virtual environment:
     * On Linux: `source myenv/bin/activate`
     * On Windows: `myenv\Scripts\activate`
